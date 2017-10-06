@@ -1,0 +1,1 @@
+This plugin doesn't use any native code, so that's why this folder is empty. 
