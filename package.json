@@ -1,6 +1,6 @@
 {
   "name": "johnwargo-cordova-plugin-mol",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Answer to the Ultimate Question of Life, the Universe, and Everything",
   "cordova": {
     "id": "com.johnwargo.mol",
