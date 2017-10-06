@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnwargo/ac4p.git"
+    "url": "https://github.com/johnwargo/johnwargo-cordova-plugin-mol"
   },
   "keywords": [
     "42",
@@ -18,7 +18,7 @@
   "author": "John M. Wargo",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/johnwargo/ac4p/issues"
+    "url": "https://github.com/johnwargo/johnwargo-cordova-plugin-mol/issues"
   },
-  "homepage": "https://github.com/johnwargo/ac4p#readme"
+  "homepage": "https://github.com/johnwargo/johnwargo-cordova-plugin-mol#readme"
 }
