@@ -1,4 +1,4 @@
-# Cordova Meaning Of Life Plugin
+# Apache Cordova Meaning Of Life Plugin
 
 This project contains a simple JavaScript-only plugin for Apache Cordova. I created this plugin to use as one of the examples in chapter 16 of my [Apache Cordova 4 Programming](http://cordova4programming.com/) book. The plugin calculates the "Answer to The Ultimate Question of Life, the Universe, and Everything" (From Douglas Adams' The Hitchhiker's Guide to the Galaxy). Basically, when a Cordova app invokes one of the methods, the plugin returns the number 42. You'll have to be a fan of the book to understand why. :-)
 
